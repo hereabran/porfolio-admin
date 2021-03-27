@@ -11,6 +11,7 @@
   },
   "devDependencies": {},
   "dependencies": {
+    "create-slug": "^1.0.4",
     "graphql": "^15.5.0",
     "strapi": "3.5.4",
     "strapi-admin": "3.5.4",
